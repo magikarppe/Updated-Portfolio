@@ -1,0 +1,37 @@
+body{
+    background-image:url(../images/leaves/leaves.png);
+   
+    
+    }
+    
+    .container{
+        font-family: 'Playfair Display', serif;
+        color: seagreen;
+        background: transparent;
+    
+        
+    }
+    
+    footer {
+        padding: 30px;
+        clear: both;
+        font-family: 'Playfair Display', serif;
+        text-align: center;
+        color: seagreen;
+    }
+    .card{
+        background:transparent;
+      
+        border-color: seagreen;
+
+    }
+    .brand-logo {
+        position: absolute;
+        top: 10%;
+        right: 0;
+        left: 0;
+        font-size: 60px;
+      text-align: center;
+        text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+        color: #C39148
+      }

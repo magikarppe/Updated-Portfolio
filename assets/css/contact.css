@@ -1,0 +1,24 @@
+body{
+    background-image:url(../images/leaves/leaves.png);
+   
+    
+    }
+ .container{
+     color: seagreen;
+     font-family: 'Playfair Display', serif;
+ }
+.row{
+    background: transparent;
+}
+h1{
+    text-underline-offset:auto;
+    color: seagreen;
+}
+
+footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Playfair Display', serif;
+    text-align: center;
+    color: seagreen;
+}
